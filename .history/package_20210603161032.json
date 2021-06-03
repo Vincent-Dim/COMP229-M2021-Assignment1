@@ -2,11 +2,8 @@
   "name": "comp229-m2021-assignment1",
   "version": "0.0.2",
   "private": true,
-  "description": "Assignment 1 for COMP229",
-  "main": "index.js",
-  "repository": "https://github.com/Vincent-Dim/COMP229-M2021-Assignment1.git",
-  "author": "Vincent Dim <vdim@my.centennialcollege.ca>",
-  "licence": "MIT",
+  "description": "Assignment 1 for COMP229"
+  
 
 
   "scripts": {
