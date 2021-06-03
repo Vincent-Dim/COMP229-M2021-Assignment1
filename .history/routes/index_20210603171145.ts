@@ -17,7 +17,7 @@ router.get('/home', function(req, res, next)  // so that entering http://localho
 /* GET about page. */
 router.get('/about', function(req, res, next) 
 {
-  res.render('index', { title: 'About Me', page: 'about' }); //lower case is the page name(Nav bar). Title is the information on the page
+  res.render('index', { title: 'About Me', page: 'about' }); //lower case
 });
 
 /* GET projects page. */
